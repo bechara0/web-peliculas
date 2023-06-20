@@ -61,7 +61,6 @@ body {
 /* estilos barra navegacion */
 .nav {
   grid-area: nav;
-  border: 5px solid red;
   background-color: blue;
 }
 
@@ -202,4 +201,18 @@ input[type="button"] {
   .peli-item {
     width: 80%;
   }
+}
+
+.form-editar {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.descripcion_editada {
+  margin-top: 5px;
+}
+
+.editar {
+  margin: 0 auto;
 }
