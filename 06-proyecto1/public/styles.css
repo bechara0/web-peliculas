@@ -216,3 +216,7 @@ input[type="button"] {
 .editar {
   margin: 0 auto;
 }
+.no-encontrado {
+  color: red;
+  font-size: 20px;
+}
